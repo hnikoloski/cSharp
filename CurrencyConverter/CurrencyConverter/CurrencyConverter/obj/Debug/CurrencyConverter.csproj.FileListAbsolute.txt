@@ -1,0 +1,7 @@
+C:\Users\riki4\OneDrive\Desktop\SEDC\C#\HomeWork\CurrencyConverter\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\riki4\OneDrive\Desktop\SEDC\C#\HomeWork\CurrencyConverter\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\riki4\OneDrive\Desktop\SEDC\C#\HomeWork\CurrencyConverter\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\riki4\OneDrive\Desktop\SEDC\C#\HomeWork\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojAssemblyReference.cache
+C:\Users\riki4\OneDrive\Desktop\SEDC\C#\HomeWork\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\riki4\OneDrive\Desktop\SEDC\C#\HomeWork\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\riki4\OneDrive\Desktop\SEDC\C#\HomeWork\CurrencyConverter\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
