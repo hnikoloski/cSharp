@@ -35,7 +35,7 @@ namespace ConsoleApp1
 
 
                 } 
-                // I have no idea why it works with && and not with ||
+                
                 while (stringOperation != "+" && stringOperation != "-" && stringOperation != "*" && stringOperation != "/"  );
 
                 do
@@ -70,6 +70,7 @@ namespace ConsoleApp1
                 //{
                 //    Console.WriteLine("Enter a valid operation");
                 //}
+
                 //Calculations 
                 double result = 0;
                 switch (stringOperation)
@@ -89,13 +90,13 @@ namespace ConsoleApp1
                 }
                 Console.WriteLine("Result of " + firstNumber + " " + stringOperation + " " + secondNumber + " = " + result);
                 
-                Console.WriteLine("Do you want to exit? y/n? ");
-                string exit = Console.ReadLine();
-                if (exit == "n")
+                Console.WriteLine("Do you want to exit? Y/N? ");
+                string exit = Console.ReadLine().ToUpper();
+                if (exit == "N")
                 {
                     continue;
                 }
-                else if (exit == "y")
+                else if (exit == "Y")
                 {
                     break;
                 }
