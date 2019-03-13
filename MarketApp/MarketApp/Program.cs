@@ -11,9 +11,9 @@ namespace MarketApp
         static void Main(string[] args)
         {
             Person person = new Person();
-            Console.WriteLine("Enter your first person name");
+            Console.WriteLine("Enter your first  name");
             person.firstName = Console.ReadLine();
-            Console.WriteLine("Enter your first person name :");
+            Console.WriteLine("Enter your last name :");
             person.lastName = Console.ReadLine();
             Console.WriteLine("Enter date of birth :");
             person.dateOfBirth = Console.ReadLine();
