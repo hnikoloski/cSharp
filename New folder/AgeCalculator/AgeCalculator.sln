@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeCalculator", "AgeCalculator\AgeCalculator.csproj", "{51810A4A-3FCA-4A71-A684-FA8B2956C315}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51810A4A-3FCA-4A71-A684-FA8B2956C315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51810A4A-3FCA-4A71-A684-FA8B2956C315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51810A4A-3FCA-4A71-A684-FA8B2956C315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51810A4A-3FCA-4A71-A684-FA8B2956C315}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {685A16C6-0D32-405A-858F-3A2D0FE06DE1}
+	EndGlobalSection
+EndGlobal
