@@ -23,7 +23,7 @@ namespace MarketApp
             string isLoyal = Console.ReadLine().ToUpper();
             while (isLoyal != "Y" &&  isLoyal != "N")
             {
-                Console.WriteLine("Are you a lyoness dumbass ? Y/N ??");
+                Console.WriteLine("Do you have a lyoal card ? Y/N ??");
                 isLoyal = Console.ReadLine().ToUpper();
             }
             // IF logika 
